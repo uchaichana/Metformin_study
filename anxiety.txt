@@ -1,0 +1,148 @@
+medcodeid	DESCRIPTION	READ_CODE	SNOMED_CT_CODE	DATABASE	
+251630012	H/O: anxiety state	1466	161470009	CPRD_AURUM	
+252894016	General nervous symptoms	1B1..00	162189001	CPRD_AURUM	
+294961014	Recurrent anxiety	E200500	191709001	CPRD_AURUM	
+339044013	Panic attack	E200111	225624000	CPRD_AURUM	
+481154010	Generalised anxiety disorder	E200200	21897009	CPRD_AURUM	
+1210253015	Panic disorder	E200100	371631005	CPRD_AURUM	
+1488717011	C/O - panic attack	1B1V.00	395017009	CPRD_AURUM	
+2536376012	Anxiousness	1B13.00	48694002	CPRD_AURUM	
+2549895012	O/E - panic attack	225J.00	417676004	CPRD_AURUM	
+300681000000118	Referral for guided self-help for anxiety	8HHp.00	199101000000102	CPRD_AURUM	
+516601000000113	Anxious	1B13.12	48694002	CPRD_AURUM	
+909691000006113	[RFC] Anxiety management		909691000006109	CPRD_AURUM	
+972931000006117	** The treatment of anxiety disorders		972931000006101	CPRD_AURUM	
+1808511000006110	Recurrent panic attacks		1808511000006100	CPRD_AURUM	
+1976491000006110	Mixed anxiety and depressive reaction		1976491000006100	CPRD_AURUM	
+2287071000000110	Anxiety about breathlessness	173f.00	702535006	CPRD_AURUM	
+2335571000000110	Patient given advice about management of anxiety	8CAZ000	908541000000103	CPRD_AURUM	
+2391581000000110	Referral for guided self-help for anxiety declined	8IH5300	933461000000100	CPRD_AURUM	
+2618361000000110	Referral for psychological management of anxiety		1037451000000100	CPRD_AURUM	
+252973015	General nervous symptom NOS	1B1Z.00	424196004	CPRD_AURUM	
+294953016	Anxiety state unspecified	E200000	198288003	CPRD_AURUM	
+294963012	Anxiety state NOS	E200z00	198288003	CPRD_AURUM	
+296224013	[X]Phobic anxiety disorders	Eu40.00	386810004	CPRD_AURUM	
+296237011	"[X]Phobic anxiety disorder, unspecified"	Eu40z00	386810004	CPRD_AURUM	
+296238018	[X]Other anxiety disorders	Eu41.00	197480006	CPRD_AURUM	
+317958013	[D]Nervousness	R2y2.00	424196004	CPRD_AURUM	
+1222553010	[D]Nerves	R2y2.11	424196004	CPRD_AURUM	
+291881000006114	'Nerves'	1B12.11	424196004	CPRD_AURUM	
+291891000006112	'Nerves' - nervousness	1B12.00	424196004	CPRD_AURUM	
+363641000006114	[X]Anxiety hysteria	Eu41y11	197480006	CPRD_AURUM	
+363651000006111	[X]Anxiety neurosis	Eu41111	207363009	CPRD_AURUM	
+363671000006118	[X]Anxiety reaction	Eu41112	197480006	CPRD_AURUM	
+378291000006117	[X]Dream anxiety disorder	Eu51511	419145002	CPRD_AURUM	
+388071000006116	[X]Generalized anxiety disorder	Eu41100	21897009	CPRD_AURUM	
+398351000006110	[X]Mild anxiety depression	Eu41211	231504006	CPRD_AURUM	
+398561000006117	[X]Mixed anxiety and depressive disorder	Eu41200	231504006	CPRD_AURUM	
+403931000006116	[X]Organic anxiety disorder	Eu05400	17496003	CPRD_AURUM	
+418031000006113	[X]Panic attack	Eu41011	371631005	CPRD_AURUM	
+488211000006112	Anxiety with depression	E200300	231504006	CPRD_AURUM	
+488251000006113	Anxiousness - symptom	1B13.11	48694002	CPRD_AURUM	
+296236019	[X]Other phobic anxiety disorders	Eu40y00	386810004	CPRD_AURUM	
+419841000006116	[X]Persistant anxiety depression	Eu34114	231504006	CPRD_AURUM	
+488201000006114	Anxiety states	E200.00	197480006	CPRD_AURUM	
+7663271000006110	Management of anxiety		710060004	CPRD_AURUM	
+8297491000006110	Education about anxiety		861611000000100	CPRD_AURUM	
+3265831000006110	Adjustment disorder with anxiety		47372000	CPRD_AURUM	
+4539991000006110	History of anxiety state		161470009	CPRD_AURUM	
+6358151000006110	Episodic paroxysmal anxiety disorder		371631005	CPRD_AURUM	
+2907991000006110	Social anxiety disorder		25501002	CPRD_AURUM	
+3287761000006110	Feeling anxious		48694002	CPRD_AURUM	
+6025531000006110	Anxiety counseling		313087008	CPRD_AURUM	
+2848311000006110	GAD - Generalised anxiety disorder		21897009	CPRD_AURUM	
+3287741000006110	Anxiety		48694002	CPRD_AURUM	
+6025541000006110	Counseling for anxiety		313087008	CPRD_AURUM	
+2848291000006110	Generalized anxiety disorder		21897009	CPRD_AURUM	
+2848301000006110	GAD - Generalized anxiety disorder		21897009	CPRD_AURUM	
+2618401000000110	Referral for psychological management of anxiety declined		1037471000000100	CPRD_AURUM	
+296249012	"[X]Anxiety disorder, unspecified"	Eu41z00	197480006	CPRD_AURUM	
+363661000006113	[X]Anxiety NOS	Eu41z11	197480006	CPRD_AURUM	
+1222552017	[D]Nervous tension	R2y2.12	425131000	CPRD_AURUM	
+6910391000006110	On examination - panic attack		417676004	CPRD_AURUM	
+6025551000006110	Counselling for anxiety		313087008	CPRD_AURUM	
+296239014	[X]Panic disorder [episodic paroxysmal anxiety]	Eu41000	371631005	CPRD_AURUM	
+2652351000000110	Signposting to Anxiety UK		1053831000000100	CPRD_AURUM	
+1861181000006110	Breathlessness causing anxiety		1861181000006100	CPRD_AURUM	
+853241000006119	Phobic anxiety		853241000006103	CPRD_AURUM	
+294960010	Chronic anxiety	E200400	191708009	CPRD_AURUM	
+2777721000006110	Organic anxiety disorder		17496003	CPRD_AURUM	
+6550101000006110	Complaining of panic attack		395017009	CPRD_AURUM	
+296245018	[X]Other mixed anxiety disorders	Eu41300	231504006	CPRD_AURUM	
+1806261000006110	Psycho-education - anxiety		1806261000006100	CPRD_AURUM	
+3287771000006110	Anxiety reaction		48694002	CPRD_AURUM	
+441512015	Separation anxiety disorder	E292000	11806006	CPRD_AURUM	
+401881014	[X]Other specified anxiety disorders	Eu41y00	197480006	CPRD_AURUM	
+109281000006110	Tension - nervous	1B12.12	425131000	CPRD_AURUM	
+223641000000116	Phobic anxiety	E202.12	386810004	CPRD_AURUM	
+363681000006115	[X]Anxiety state	Eu41113	198288003	CPRD_AURUM	
+6025521000006110	Anxiety counselling		313087008	CPRD_AURUM	
+5024071000006110	Anxiety depression		231504006	CPRD_AURUM	
+12703831000006100	[X]Organic anxiety disorder		17496003	CPRD_AURUM	
+304838011	Anxiety state	E200.99	198288003	CPRD_AURUM	
+131	Anxiousness	1B13.00		CPRD_GOLD	
+462	Panic attack	E200111		CPRD_GOLD	
+514	Tension - nervous	1B12.12		CPRD_GOLD	
+636	Anxiety states	E200.00		CPRD_GOLD	
+655	Anxiety with depression	E200300		CPRD_GOLD	
+962	[X]Anxiety neurosis	Eu41111		CPRD_GOLD	
+1758	Chronic anxiety	E200400		CPRD_GOLD	
+2509	[D]Nervousness	R2y2.00		CPRD_GOLD	
+3328	General nervous symptoms	1B1..00		CPRD_GOLD	
+3407	H/O: anxiety state	1466		CPRD_GOLD	
+3586	'Nerves'	1B12.11		CPRD_GOLD	
+4069	Panic disorder	E200100		CPRD_GOLD	
+4534	Anxiety state NOS	E200z00		CPRD_GOLD	
+4634	Recurrent anxiety	E200500		CPRD_GOLD	
+4659	Generalised anxiety disorder	E200200		CPRD_GOLD	
+5385	[X]Other anxiety disorders	Eu41.00		CPRD_GOLD	
+5902	Anxiousness - symptom	1B13.11		CPRD_GOLD	
+6221	Separation anxiety disorder	E292000		CPRD_GOLD	
+6408	[X]Panic attack	Eu41011		CPRD_GOLD	
+6939	Anxiety state unspecified	E200000		CPRD_GOLD	
+7749	[X]Mild anxiety depression	Eu41211		CPRD_GOLD	
+7999	Anxiety counselling	Z4L1.00		CPRD_GOLD	
+8205	[X]Panic disorder [episodic paroxysmal anxiety]	Eu41000		CPRD_GOLD	
+9386	[X]Phobic anxiety disorders	Eu40.00		CPRD_GOLD	
+9944	Phobic anxiety	E202.12		CPRD_GOLD	
+10344	[X]Generalized anxiety disorder	Eu41100		CPRD_GOLD	
+10723	[D]Nervous tension	R2y2.12		CPRD_GOLD	
+11890	C/O - panic attack	1B1V.00		CPRD_GOLD	
+11913	[X]Mixed anxiety and depressive disorder	Eu41200		CPRD_GOLD	
+15220	[X]Persistant anxiety depression	Eu34114		CPRD_GOLD	
+17687	[X]Dream anxiety disorder	Eu51511		CPRD_GOLD	
+17853	[D]Nerves	R2y2.11		CPRD_GOLD	
+19000	O/E - panic attack	225J.00		CPRD_GOLD	
+20089	General nervous symptom NOS	1B1Z.00		CPRD_GOLD	
+20773	[X]Organic anxiety disorder	Eu05400		CPRD_GOLD	
+22159	Acknowledging anxiety	Z4I7.00		CPRD_GOLD	
+23838	"[X]Anxiety disorder, unspecified"	Eu41z00		CPRD_GOLD	
+24066	[X]Other specified anxiety disorders	Eu41y00		CPRD_GOLD	
+25638	[X]Anxiety NOS	Eu41z11		CPRD_GOLD	
+26295	Reducing anxiety	Z4I7211		CPRD_GOLD	
+27685	[X]Other phobic anxiety disorders	Eu40y00		CPRD_GOLD	
+28167	[X]Anxiety hysteria	Eu41y11		CPRD_GOLD	
+28381	Alleviating anxiety	Z4I7200		CPRD_GOLD	
+28925	Referral for guided self-help for anxiety	8HHp.00		CPRD_GOLD	
+29608	'Nerves' - nervousness	1B12.00		CPRD_GOLD	
+34064	"[X]Phobic anxiety disorder, unspecified"	Eu40z00		CPRD_GOLD	
+35825	[X]Anxiety reaction	Eu41112		CPRD_GOLD	
+44321	[X]Other mixed anxiety disorders	Eu41300		CPRD_GOLD	
+50191	[X]Anxiety state	Eu41113		CPRD_GOLD	
+62935	Recognising anxiety	Z4I7100		CPRD_GOLD	
+93401	Anxious	1B13.12		CPRD_GOLD	
+107410	Anxiety about breathlessness	173f.00		CPRD_GOLD	
+108107	Patient given advice about management of anxiety	8CAZ000		CPRD_GOLD	
+114506	Referral for guided self-help for anxiety declined	8IH5300		CPRD_GOLD	
+F064	Organic anxiety disorder	F06.4		ICD10	
+F40	Phobic anxiety disorders	F40		ICD10	
+F408	Other phobic anxiety disorders	F40.8		ICD10	
+F409	"Phobic anxiety disorder, unspecified"	F40.9		ICD10	
+F41	Other anxiety disorders	F41		ICD10	
+F410	Panic disorder [episodic paroxysmal anxiety]	F41.0		ICD10	
+F411	Generalized anxiety disorder	F41.1		ICD10	
+F412	Mixed anxiety and depressive disorder	F41.2		ICD10	
+F413	Other mixed anxiety disorders	F41.3		ICD10	
+F418	Other specified anxiety disorders	F41.8		ICD10	
+F419	"Anxiety disorder, unspecified"	F41.9		ICD10	
+F606	Anxious [avoidant] personality disorder	F60.6		ICD10	

@@ -1,0 +1,215 @@
+medcodeid	DESCRIPTION	READ_CODE	SNOMED_CT_CODE	DATABASE
+138421012	Agitated depression	E135.00	83458005	CPRD_AURUM
+294646011	Senile dementia with depression	E002100	191459006	CPRD_AURUM
+294655014	Arteriosclerotic dementia with depression	E004300	191466007	CPRD_AURUM
+294860011	Manic-depressive - now depressed	E115.11	191627008	CPRD_AURUM
+295536013	Postviral depression	E2B0.00	192079006	CPRD_AURUM
+346972018	Endogenous depression first episode	E112.13	231499006	CPRD_AURUM
+346973011	Masked depression	E11z200	231500002	CPRD_AURUM
+410861011	Endogenous depression - recurrent	E113.11	274948002	CPRD_AURUM
+1488626018	Symptoms of depression	1B1U.00	394924000	CPRD_AURUM
+1773563015	Depression management programme	8BK0.00	401174001	CPRD_AURUM
+2474715017	On depression register	9HA0.00	413169006	CPRD_AURUM
+2533375017	Patient given advice about management of depression	8CAa.00	415044007	CPRD_AURUM
+2534091015	Depression interim review	9H92.00	413973005	CPRD_AURUM
+2534092010	Depression medication review	9H91.00	413974004	CPRD_AURUM
+2534096013	Depression annual review	9H90.00	413972000	CPRD_AURUM
+213641000000111	[X]Mild depression	Eu32400	310495003	CPRD_AURUM
+300711000000119	Referral for guided self-help for depression	8HHq.00	199111000000100	CPRD_AURUM
+408521000000112	Depression monitoring first letter	9Ov0.00	717211000000107	CPRD_AURUM
+408561000000116	Depression monitoring third letter	9Ov2.00	716961000000102	CPRD_AURUM
+681801000000113	On full dose long term treatment for depression	9kQ..11	361761000000106	CPRD_AURUM
+882401000006115	Reactive (neurotic) depression	E204.99	87414006	CPRD_AURUM
+1839551000006110	PHQ9 total score 5-9 (mild depression)		1839551000006100	CPRD_AURUM
+1839561000006110	PHQ9 total score 10-14 (moderate depression)		1839561000006100	CPRD_AURUM
+294647019	Senile dementia with depressive or paranoid features NOS	E002z00	191457008	CPRD_AURUM
+401871010	[X]Other depressive episodes	Eu32y00	35489007	CPRD_AURUM
+401872015	"[X]Depressive episode, unspecified"	Eu32z00	35489007	CPRD_AURUM
+294081000000110	Exception reporting: depression quality indicators	9hC..00	716111000000102	CPRD_AURUM
+359121000006116	[X] Reactive depression NOS	Eu32z14	87414006	CPRD_AURUM
+376721000006114	[X]Depressive episode	Eu32.00	35489007	CPRD_AURUM
+376741000006119	[X]Depressive neurosis	Eu34111	78667006	CPRD_AURUM
+398351000006110	[X]Mild anxiety depression	Eu41211	231504006	CPRD_AURUM
+398841000006119	[X]Monopolar depression NOS	Eu33z11	35489007	CPRD_AURUM
+399961000006118	[X]Neurotic depression	Eu34113	78667006	CPRD_AURUM
+408601000000116	Depression monitoring telephone invite	9Ov4.00	716421000000103	CPRD_AURUM
+425751000006115	[X]Seasonal depressive disorder	Eu33.14	247803002	CPRD_AURUM
+426931000006117	[X]Single episode of masked depression NOS	Eu32y12	231500002	CPRD_AURUM
+426971000006119	[X]Single episode of reactive depression	Eu32.13	87414006	CPRD_AURUM
+488211000006112	Anxiety with depression	E200300	231504006	CPRD_AURUM
+999901000006113	Excepted from depression quality indicators: Patient unsuita	9hC0.00	716831000000103	CPRD_AURUM
+999911000006111	Excepted from depression quality indicators: Informed dissen	9hC1.00	715831000000109	CPRD_AURUM
+142521000006110	"Single major depressive episode, partial or unspec remission"	E112500	70747007	CPRD_AURUM
+419841000006116	[X]Persistant anxiety depression	Eu34114	231504006	CPRD_AURUM
+423611000006111	[X]Prolonged single episode of reactive depression	Eu32z13	87414006	CPRD_AURUM
+296137015	[X]Mild depressive episode	Eu32000	310495003	CPRD_AURUM
+296138013	[X]Moderate depressive episode	Eu32100	310496002	CPRD_AURUM
+401766011	Single major depressive episode	E112.00	36923009	CPRD_AURUM
+376751000006117	[X]Depressive personality disorder	Eu34112	1084061000000100	CPRD_AURUM
+6000691000006110	Mild depression		310495003	CPRD_AURUM
+2809821000006110	"Major depression, single episode, in complete remission"		19527009	CPRD_AURUM
+4539971000006110	History of depression		161469008	CPRD_AURUM
+2809811000006110	Single episode of major depression in full remission		19527009	CPRD_AURUM
+4539961000006110	Has had depression		161469008	CPRD_AURUM
+6000711000006110	Moderate depression		310496002	CPRD_AURUM
+6649631000006110	Depression management program		401174001	CPRD_AURUM
+2809831000006110	"Major depression, single episode, in full remission"		19527009	CPRD_AURUM
+882671000006112	Depression	E2B..98	609311000000100	CPRD_AURUM
+882681000006110	Depression NOS	E2B..99	609311000000100	CPRD_AURUM
+882821000006110	Moderate depression	Eu32199	465441000000108	CPRD_AURUM
+882831000006113	Severe depression	Eu32299	397701000000102	CPRD_AURUM
+8245201000006110	Depression care management		784051000000106	CPRD_AURUM
+1839571000006110	PHQ9 total score 15-19 (moderately severe depression)		1839571000006100	CPRD_AURUM
+294894013	Atypical depressive disorder	E11y200	191659001	CPRD_AURUM
+226581000000119	Depression - enhanced service completed	9k40.00	166481000000107	CPRD_AURUM
+376691000006116	[X]Depression NOS	Eu32z11	35489007	CPRD_AURUM
+376711000006118	[X]Depressive disorder NOS	Eu32z12	35489007	CPRD_AURUM
+675861000006113	Neurotic depression reactive type	E204.00	87414006	CPRD_AURUM
+1680571000006110	On full dose long term treatment depression - enh serv admin	9kQ..00	361761000000106	CPRD_AURUM
+294831019	"Single major depressive episode, in full remission"	E112600	19527009	CPRD_AURUM
+6000721000006110	Severe depression		310497006	CPRD_AURUM
+3650771000006110	"Major depression, single episode, in partial remission"		70747007	CPRD_AURUM
+12491591000006100	Depression care management		784051000000106	CPRD_AURUM
+12626331000006100	QOF (Quality and Outcomes Framework) depression quality indicator-related care invitation		1110911000000100	CPRD_AURUM
+2370061000000110	Referral for depression self-help video	8HHq000	923921000000104	CPRD_AURUM
+1823881000006110	Depression confirmed		1823881000006100	CPRD_AURUM
+1839581000006110	PHQ9 total score 20-27 (severe depression)		1839581000006100	CPRD_AURUM
+909681000006110	[RFC] Depression		909681000006106	CPRD_AURUM
+406881000000111	Depression monitoring administration	9Ov..00	713831000000108	CPRD_AURUM
+408541000000117	Depression monitoring second letter	9Ov1.00	716681000000100	CPRD_AURUM
+2164005017	Depressed mood	1BT..00	366979004	CPRD_AURUM
+441826016	Endogenous depression	E112.14	300706003	CPRD_AURUM
+408581000000113	Depression monitoring verbal invite	9Ov3.00	717261000000109	CPRD_AURUM
+474171000006112	Agitated depression	E112.11	83458005	CPRD_AURUM
+642461000006116	Endogenous depression first episode	E112.12	231499006	CPRD_AURUM
+1715181000006110	"[X]Major depression, moderately severe"	Eu32600	832007	CPRD_AURUM
+1715771000006110	"[X]Major depression, mild"	Eu32500	87512008	CPRD_AURUM
+294825017	"Single major depressive episode, mild"	E112100	79298009	CPRD_AURUM
+294826016	"Single major depressive episode, moderate"	E112200	15639000	CPRD_AURUM
+294824018	"Single major depressive episode, unspecified"	E112000	36923009	CPRD_AURUM
+4763361000006110	Drug-induced depression		191495003	CPRD_AURUM
+7965131000006110	"Severe major depression, single episode"		251000119105	CPRD_AURUM
+2918341000006110	ST segment depression		26141007	CPRD_AURUM
+2748031000006110	"Moderate major depression, single episode"		15639000	CPRD_AURUM
+294642013	Presenile dementia with depression	E001300	191455000	CPRD_AURUM
+294644014	Senile dementia with depressive or paranoid features	E002.00	191457008	CPRD_AURUM
+295537016	Chronic depression	E2B1.00	192080009	CPRD_AURUM
+251629019	H/O: depression	1465	161469008	CPRD_AURUM
+226411000000110	Depression - enhanced services administration	9k4..00	166291000000108	CPRD_AURUM
+3094941000006110	"Major depression, single episode"		36923009	CPRD_AURUM
+366561000006119	[X]Atypical depression	Eu32y11	191659001	CPRD_AURUM
+426911000006111	[X]Single episode of depressive reaction	Eu32.11	87414006	CPRD_AURUM
+294832014	Single major depressive episode NOS	E112z00	36923009	CPRD_AURUM
+5024071000006110	Anxiety depression		231504006	CPRD_AURUM
+3789581000006110	"Mild major depression, single episode"		79298009	CPRD_AURUM
+882811000006119	Mild depression	Eu32099	430421000000104	CPRD_AURUM
+543	[X]Depression NOS	Eu32z11		CPRD_GOLD
+595	Endogenous depression	E112.14		CPRD_GOLD
+655	Anxiety with depression	E200300		CPRD_GOLD
+1055	Agitated depression	E135.00		CPRD_GOLD
+1131	Neurotic depression reactive type	E204.00		CPRD_GOLD
+1908	O/E - depressed	2257		CPRD_GOLD
+1996	Depressed	1B17.00		CPRD_GOLD
+2716	H/O: depression	1465		CPRD_GOLD
+2970	"[X]Depressive episode, unspecified"	Eu32z00		CPRD_GOLD
+2972	Postviral depression	E2B0.00		CPRD_GOLD
+3291	[X]Depressive disorder NOS	Eu32z12		CPRD_GOLD
+4323	Chronic depression	E2B1.00		CPRD_GOLD
+4639	[X]Depressive episode	Eu32.00		CPRD_GOLD
+4824	C/O - feeling depressed	1B17.11		CPRD_GOLD
+5879	Agitated depression	E112.11		CPRD_GOLD
+5987	[X] Reactive depression NOS	Eu32z14		CPRD_GOLD
+6546	Endogenous depression first episode	E112.12		CPRD_GOLD
+6854	[X]Other depressive episodes	Eu32y00		CPRD_GOLD
+6932	Endogenous depression - recurrent	E113.11		CPRD_GOLD
+6950	Endogenous depression first episode	E112.13		CPRD_GOLD
+7011	Single major depressive episode NOS	E112z00		CPRD_GOLD
+7604	[X]Single episode of reactive depression	Eu32.13		CPRD_GOLD
+7737	[X]Neurotic depression	Eu34113		CPRD_GOLD
+7749	[X]Mild anxiety depression	Eu41211		CPRD_GOLD
+8584	[X]Depressive neurosis	Eu34111		CPRD_GOLD
+9055	[X]Single episode of depressive reaction	Eu32.11		CPRD_GOLD
+9183	Masked depression	E11z200		CPRD_GOLD
+9211	[X]Moderate depressive episode	Eu32100		CPRD_GOLD
+9796	Symptoms of depression	1B1U.00		CPRD_GOLD
+10015	Depressed mood	1BT..00		CPRD_GOLD
+10290	[X]Depressive personality disorder	Eu34112		CPRD_GOLD
+10610	Single major depressive episode	E112.00		CPRD_GOLD
+10667	[X]Mild depression	Eu32400		CPRD_GOLD
+10720	[X]Atypical depression	Eu32y11		CPRD_GOLD
+11717	[X]Mild depressive episode	Eu32000		CPRD_GOLD
+12122	Depression medication review	9H91.00		CPRD_GOLD
+12399	Depression annual review	9H90.00		CPRD_GOLD
+12831	Manic-depressive - now depressed	E115.11		CPRD_GOLD
+15155	"Single major depressive episode, moderate"	E112200		CPRD_GOLD
+15220	[X]Persistant anxiety depression	Eu34114		CPRD_GOLD
+16506	"Single major depressive episode, mild"	E112100		CPRD_GOLD
+21887	Senile dementia with depression	E002100		CPRD_GOLD
+26028	Sad mood	1BT..12		CPRD_GOLD
+27491	Atypical depressive disorder	E11y200		CPRD_GOLD
+27677	Presenile dementia with depression	E001300		CPRD_GOLD
+28248	[X]Prolonged single episode of reactive depression	Eu32z13		CPRD_GOLD
+28756	[X]Seasonal depressive disorder	Eu33.14		CPRD_GOLD
+28970	Excepted from depression quality indicators: Patient unsuita	9hC0.00		CPRD_GOLD
+30405	Depression interim review	9H92.00		CPRD_GOLD
+30483	Patient given advice about management of depression	8CAa.00		CPRD_GOLD
+30583	Depression - enhanced services administration	9k4..00		CPRD_GOLD
+32841	Referral for guided self-help for depression	8HHq.00		CPRD_GOLD
+34390	"Single major depressive episode, unspecified"	E112000		CPRD_GOLD
+36616	[X]Monopolar depression NOS	Eu33z11		CPRD_GOLD
+41089	Senile dementia with depressive or paranoid features NOS	E002z00		CPRD_GOLD
+42931	On depression register	9HA0.00		CPRD_GOLD
+43239	Excepted from depression quality indicators: Informed dissen	9hC1.00		CPRD_GOLD
+43292	Arteriosclerotic dementia with depression	E004300		CPRD_GOLD
+43324	"Single major depressive episode, partial or unspec remission"	E112500		CPRD_GOLD
+44674	Senile dementia with depressive or paranoid features	E002.00		CPRD_GOLD
+44848	Depression management programme	8BK0.00		CPRD_GOLD
+48970	Exception reporting: depression quality indicators	9hC..00		CPRD_GOLD
+51258	Depression monitoring administration	9Ov..00		CPRD_GOLD
+56609	[X]Single episode of masked depression NOS	Eu32y12		CPRD_GOLD
+57409	"Single major depressive episode, in full remission"	E112600		CPRD_GOLD
+65435	Depression - enhanced service completed	9k40.00		CPRD_GOLD
+71009	Depression monitoring first letter	9Ov0.00		CPRD_GOLD
+72966	Depression monitoring second letter	9Ov1.00		CPRD_GOLD
+85852	Depression monitoring telephone invite	9Ov4.00		CPRD_GOLD
+88644	Depression monitoring verbal invite	9Ov3.00		CPRD_GOLD
+91105	Depression monitoring third letter	9Ov2.00		CPRD_GOLD
+96995	On full dose long term treatment depression - enh serv admin	9kQ..00		CPRD_GOLD
+98252	"[X]Major depression, moderately severe"	Eu32600		CPRD_GOLD
+98346	"[X]Major depression, mild"	Eu32500		CPRD_GOLD
+F32	Depressive episode	F32		ICD10
+F320	Mild depressive episode	F32.0		ICD10
+F321	Moderate depressive episode	F32.1		ICD10
+F328	Other depressive episodes	F32.8		ICD10
+F329	"Depressive episode, unspecified"	F32.9		ICD10
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
