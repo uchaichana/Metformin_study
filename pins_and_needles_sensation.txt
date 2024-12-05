@@ -1,0 +1,5 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+317163011	400000	R0207	R020700	Paraesthesia	91019004	150831017	32
+3979201000006117	6	^ESCTPA397920		Paraesthesia (numbness/tingling)	91019004	2966667018	32
+3979211000006119	20	^ESCTPA397921		Paresthesia (numbness/tingling)	91019004	2966699012	32
+11905631000006110	10	^ESCT1190563		Paresthesia	91019004	150830016	32

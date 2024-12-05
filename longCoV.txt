@@ -1,0 +1,4 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+13486451000006115	80000	^ESCT1348645		Post-COVID-19 syndrome	1325161000000102	2839381000000112	32
+14168631000006110	10	^ESCT1416863		Chronic post-COVID-19 syndrome	1119304009	4361655018	31
+13486491000006114	5	^ESCT1348649		Ongoing symptomatic disease caused by severe acute respiratory syndrome coronavirus 2	1325181000000106	2839451000000113	32

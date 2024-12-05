@@ -1,0 +1,119 @@
+medcodeid	DESCRIPTION	READ_CODE	SNOMED_CT_CODE	DATABASE			
+72350017	Abdominal discomfort	1968	43364001	CPRD_AURUM			
+90723010	Lower abdominal pain	197C.00	54586004	CPRD_AURUM			
+132601013	Epigastric pain	1972	79922009	CPRD_AURUM			
+137890011	Upper abdominal pain	197B.00	83132003	CPRD_AURUM			
+252305018	Generalised abdominal pain	197A.00	102614006	CPRD_AURUM			
+252575016	Abdominal wall pain	1969000	162042000	CPRD_AURUM			
+252586019	Right subcostal pain	1974	162048001	CPRD_AURUM			
+369368016	Abdominal pain type	196..11	247358007	CPRD_AURUM			
+402479018	O/E - abdo. pain on palpation	25C..00	268941000	CPRD_AURUM			
+958291000006112	Colicky abdominal pain present		958291000006108	CPRD_AURUM			
+961961000006110	Cramping/abdominal discomfort		961961000006106	CPRD_AURUM			
+1983911000006110	Manchester triage - Abdominal pain in adult		1983911000006100	CPRD_AURUM			
+1983921000006110	Manchester triage - Abdominal pain in child		1983921000006100	CPRD_AURUM			
+254362016	O/E -abd.pain on palpation NOS	25CZ.00	268941000	CPRD_AURUM			
+317567019	[D]Abdominal cramps	R090400	51197009	CPRD_AURUM			
+317568012	[D]Epigastric pain	R090500	79922009	CPRD_AURUM			
+317578010	[D]Acute abdomen	R096.00	9209005	CPRD_AURUM			
+317586010	[D]Other specified abdominal pain	R090y00	21522001	CPRD_AURUM			
+317587018	[D]Abdominal pain NOS	R090z00	21522001	CPRD_AURUM			
+455443010	[D]Nonspecific abdominal pain	R090N00	304542004	CPRD_AURUM			
+293121000006115	[D]Acute abdomen	R090F00	9209005	CPRD_AURUM			
+254353018	O/E - abd. pain - epigastrium	25C3.00	163215003	CPRD_AURUM			
+254355013	O/E - abd. pain - R.lumbar	25C5.00	163217006	CPRD_AURUM			
+254356014	O/E - abd. pain - umbilical	25C6.00	163218001	CPRD_AURUM			
+254358010	O/E - abd. pain - L.lumbar	25C7.00	163219009	CPRD_AURUM			
+254359019	O/E - abd. pain - R.iliac	25C8.00	163220003	CPRD_AURUM			
+254360012	O/E - abd. pain - hypogastrium	25C9.00	163221004	CPRD_AURUM			
+254361011	O/E - abd. pain - L.iliac	25CA.00	163222006	CPRD_AURUM			
+2659131000006110	Colicky abdominal pain		9991008	CPRD_AURUM			
+5243121000006110	Type of abdominal pain		247358007	CPRD_AURUM			
+12454931000006100	O/E - abd. pain - umbilical		163218001	CPRD_AURUM			
+4559871000006110	On examination - abdominal pain - umbilical		163218001	CPRD_AURUM			
+12454901000006100	O/E - abd. pain - L.lumbar		163219009	CPRD_AURUM			
+4559901000006110	On examination - abdominal pain - left lumbar		163219009	CPRD_AURUM			
+2842251000006110	AP - Abdominal pain		21522001	CPRD_AURUM			
+2646781000006110	Acute abdominal pain syndrome		9209005	CPRD_AURUM			
+12454911000006100	O/E - abd. pain - R.iliac		163220003	CPRD_AURUM			
+4077761000006110	Generalized abdominal pain		102614006	CPRD_AURUM			
+4559941000006110	On examination - abdominal pain - hypogastrium		163221004	CPRD_AURUM			
+2659121000006110	Spasmodic abdominal pain		9991008	CPRD_AURUM			
+12454991000006100	O/E - abd.pain-L.hypochondrium		163216002	CPRD_AURUM			
+12454891000006100	O/E - abd. pain - L.iliac		163222006	CPRD_AURUM			
+12454871000006100	O/E - abd. pain - epigastrium		163215003	CPRD_AURUM			
+12454921000006100	O/E - abd. pain - R.lumbar		163217006	CPRD_AURUM			
+12455001000006100	O/E - abd.pain-R.hypochondrium		163214004	CPRD_AURUM			
+4559961000006110	On examination - abdominal pain - left iliac		163222006	CPRD_AURUM			
+12454471000006100	O/E - epigastric pain on palp.		308903002	CPRD_AURUM			
+1858471000006110	Abdominal pain score		1858471000006100	CPRD_AURUM			
+958281000006114	Colicky abdominal pain control		958281000006105	CPRD_AURUM			
+252571013	Non-colicky abdominal pain	1963	162038003	CPRD_AURUM			
+317562013	[D]Abdominal pain	R090.00	21522001	CPRD_AURUM			
+317564014	[D]Abdominal colic	R090100	9991008	CPRD_AURUM			
+452290019	O/E - epigastric pain on palp.	25C..11	308903002	CPRD_AURUM			
+4559811000006110	On examination - abdominal pain - epigastrium		163215003	CPRD_AURUM			
+4559791000006110	On examination - abdominal pain - right hypochondrium		163214004	CPRD_AURUM			
+1218836019	General abdominal pain-symptom	197A.11	102614006	CPRD_AURUM			
+369360011	Subcostal pain	197..14	247352008	CPRD_AURUM			
+369361010	Site of abdominal pain	197..13	247353003	CPRD_AURUM			
+1786591000006110	[D]Functional abdominal pain syndrome	R090P00	449890002	CPRD_AURUM			
+254352011	O/E - abd.pain-R.hypochondrium	25C2.00	163214004	CPRD_AURUM			
+254354012	O/E - abd.pain-L.hypochondrium	25C4.00	163216002	CPRD_AURUM			
+12454881000006100	O/E - abd. pain - hypogastrium		163221004	CPRD_AURUM			
+4559831000006110	On examination - abdominal pain - left hypochondrium		163216002	CPRD_AURUM			
+5983231000006110	On examination - epigastric pain on palpation		308903002	CPRD_AURUM			
+252584016	Central abdominal pain	1971	162046002	CPRD_AURUM			
+252585015	Left subcostal pain	1973	162047006	CPRD_AURUM			
+36112013	Abdominal pain	1969	21522001	CPRD_AURUM			
+317577017	[D]Recurrent acute abdominal pain	R090E00	271858001	CPRD_AURUM			
+318001012	[X]Pain localized to other parts of lower abdomen	Ryu1000	54586004	CPRD_AURUM			
+318003010	[X]Other and unspecified abdominal pain	Ryu1100	21522001	CPRD_AURUM			
+1236016018	Colicky abdominal pain	1962	9991008	CPRD_AURUM			
+4559921000006110	On examination - abdominal pain - right iliac		163220003	CPRD_AURUM			
+303651000006110	[D]Upper abdominal pain	R090H00	83132003	CPRD_AURUM			
+4559851000006110	On examination - abdominal pain - right lumbar		163217006	CPRD_AURUM			
+177	Abdominal pain	1969		CPRD_GOLD			
+290	Epigastric pain	1972		CPRD_GOLD			
+542	[D]Epigastric pain	R090500		CPRD_GOLD			
+716	[D]Abdominal cramps	R090400		CPRD_GOLD			
+1763	[D]Abdominal pain	R090.00		CPRD_GOLD			
+1976	Abdominal pain type	196..11		CPRD_GOLD			
+2056	[D]Abdominal colic	R090100		CPRD_GOLD			
+2234	[D]Recurrent acute abdominal pain	R090E00		CPRD_GOLD			
+2383	Abdominal discomfort	1968		CPRD_GOLD			
+3338	[D]Abdominal pain NOS	R090z00		CPRD_GOLD			
+3978	Upper abdominal pain	197B.00		CPRD_GOLD			
+4617	Central abdominal pain	1971		CPRD_GOLD			
+5691	Non-colicky abdominal pain	1963		CPRD_GOLD			
+5960	Site of abdominal pain	197..13		CPRD_GOLD			
+6357	Subcostal pain	197..14		CPRD_GOLD			
+7812	Colicky abdominal pain	1962		CPRD_GOLD			
+8436	[D]Upper abdominal pain	R090H00		CPRD_GOLD			
+11070	General abdominal pain-symptom	197A.11		CPRD_GOLD			
+11647	O/E - abd. pain - R.iliac	25C8.00		CPRD_GOLD			
+12639	O/E - abd.pain-R.hypochondrium	25C2.00		CPRD_GOLD			
+14916	O/E -abd.pain on palpation NOS	25CZ.00		CPRD_GOLD			
+15180	O/E - abdo. pain on palpation	25C..00		CPRD_GOLD			
+19223	O/E - abd. pain - epigastrium	25C3.00		CPRD_GOLD			
+19283	[D]Nonspecific abdominal pain	R090N00		CPRD_GOLD			
+20640	O/E - epigastric pain on palp.	25C..11		CPRD_GOLD			
+21583	O/E - abd. pain - L.iliac	25CA.00		CPRD_GOLD			
+22608	Lower abdominal pain	197C.00		CPRD_GOLD			
+23872	Left subcostal pain	1973		CPRD_GOLD			
+24627	O/E - abd. pain - umbilical	25C6.00		CPRD_GOLD			
+24661	Generalised abdominal pain	197A.00		CPRD_GOLD			
+24821	Right subcostal pain	1974		CPRD_GOLD			
+25630	O/E - abd. pain - L.lumbar	25C7.00		CPRD_GOLD			
+29352	Abdominal wall pain	1969000		CPRD_GOLD			
+31062	[D]Other specified abdominal pain	R090y00		CPRD_GOLD			
+36558	O/E - abd. pain - R.lumbar	25C5.00		CPRD_GOLD			
+37101	O/E - abd.pain-L.hypochondrium	25C4.00		CPRD_GOLD			
+42211	O/E - abd. pain - hypogastrium	25C9.00		CPRD_GOLD			
+50662	[X]Pain localized to other parts of lower abdomen	Ryu1000		CPRD_GOLD			
+52402	[X]Other and unspecified abdominal pain	Ryu1100		CPRD_GOLD			
+103540	[D]Functional abdominal pain syndrome	R090P00		CPRD_GOLD			
+R100	Acute abdomen	R10.0		ICD10			
+R101	Pain localized to upper abdomen	R10.1		ICD10			
+R103	Pain localized to other parts of lower abdomen	R10.3		ICD10			
+R104	Other and unspecified abdominal pain	R10.4		ICD10			
